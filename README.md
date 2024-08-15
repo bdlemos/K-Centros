@@ -1,5 +1,7 @@
 # Problema de K-Centros
 
+Autores: Bernardo Dutra Lemos e João Lucas Simões Moreira
+
 O problema de K-Centros é comum na área de aprendizado de máquina, com aplicações práticas em biologia computacional, agrupamento de documentos, detecção de anomalias, segmentação de clientes, entre outros.
 
 ## Definição do Problema
